@@ -1,5 +1,7 @@
 ﻿# Biometrics Display
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+ My starter project was TV-B-Gone. The purpose of TV-B-Gone is to be able to shut off any tv in a public place. I was able to learn how all the parts in my project worked, like what transistors and capacitors did. I really enjoyed soldering all the parts in and seeing my project work on a real tv. One thing I really struggled with is desoldering my resistor when I soldered it in the wrong hole on my PCB.
+ [![Starter Project](https://res.cloudinary.com/djfcvgfhx/image/upload/v1657559522/Screen_Shot_2022-07-11_at_10.06.54_AM_isfysm.png)](https://www.youtube.com/watch?v=7drLN08INww&ab_channel=BlueStampEng")
+
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -22,8 +24,6 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
 
-# Starter Project
-My starter project was TV-B-Gone. The purpose of TV-B-Gone is to be able to shut off any tv in a public place. I was able to learn how all the parts in my project worked, like what transistors and capacitors did. I really enjoyed soldering all the parts in and seeing my project work on a real tv. One thing I really struggled with is desoldering my resistor when I soldered it in the wrong hole on my PCB.
 
 
-[![Starter Project](https://res.cloudinary.com/djfcvgfhx/image/upload/v1657559522/Screen_Shot_2022-07-11_at_10.06.54_AM_isfysm.png)](https://www.youtube.com/watch?v=7drLN08INww&ab_channel=BlueStampEng")
+
