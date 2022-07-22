@@ -1,7 +1,7 @@
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Dylan P | Vandegrift Highschool  | Mechanical Engineering | Incoming Junior
+| Dylan | Vandegrift Highschool  | Mechanical Engineering | Incoming Junior
 
 ![Headstone Image](https://res.cloudinary.com/djfcvgfhx/image/upload/v1658507648/Screen_Shot_2022-07-22_at_9.33.53_AM_am8ddt.png)
  
