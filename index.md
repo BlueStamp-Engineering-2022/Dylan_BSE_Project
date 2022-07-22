@@ -3,7 +3,7 @@
 |:--:|:--:|:--:|:--:|
 | Dylan P | Vandegrift Highschool  | Mechanical Engineering | Incoming Junior
 
-![Headstone Image](https://res-console.cloudinary.com/djfcvgfhx/thumbnails/v1/image/upload/v1657728172/TDEwMDM2OTBfbmx3OWVq/preview)
+![Headstone Image](https://res.cloudinary.com/djfcvgfhx/image/upload/v1657728172/L1003690_nlw9ej.jpg)
  
  # Starter Project
  My starter project was TV-B-Gone. The purpose of TV-B-Gone is to be able to shut off any tv in a public place. I was able to learn how all the parts in my project worked, like what transistors and capacitors did. I really enjoyed soldering all the parts in and seeing my project work on a real tv. One thing I really struggled with is desoldering my resistor when I soldered it in the wrong hole on my PCB.
